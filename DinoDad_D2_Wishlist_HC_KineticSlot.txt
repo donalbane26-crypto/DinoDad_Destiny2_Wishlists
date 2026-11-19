@@ -1,0 +1,720 @@
+title:DinoDad_D2_Wishlist
+description:Perks I like in columns 3 and 4.
+
+// Service Revolver ()
+//notes: 1
+dimwishlist:item=59060498&perks=247725512,2305480722
+dimwishlist:item=59060498&perks=247725512,3425386926
+dimwishlist:item=59060498&perks=247725512,3891536761
+
+
+// Service Revolver ()
+//notes: 2
+dimwishlist:item=59060498&perks=3700496672,3038247973
+dimwishlist:item=59060498&perks=3700496672,3891536761
+
+
+// Service Revolver ()
+//notes: 3
+dimwishlist:item=59060498&perks=1517798362,3891536761
+
+
+// Bold Endings ()
+//notes: 1
+dimwishlist:item=496728945&perks=124408337,2848615171
+
+
+// Bold Endings ()
+//notes: 2
+dimwishlist:item=496728945&perks=124408337,3523296417
+
+
+// Bold Endings ()
+//notes: 3
+dimwishlist:item=496728945&perks=124408337,2922950962
+
+
+// Bold Endings ()
+//notes: 4
+dimwishlist:item=496728945&perks=1955165503,2922950962
+
+
+// Bold Endings ()
+//notes: 5
+dimwishlist:item=496728945&perks=243981275,3523296417
+
+
+// D.F.A. ()
+//notes: 1
+dimwishlist:item=739029153&perks=3038247973,243981275
+dimwishlist:item=739029153&perks=3038247973,47981717
+dimwishlist:item=739029153&perks=3038247973,3425386926
+dimwishlist:item=739029153&perks=3038247973,1015611457
+dimwishlist:item=739029153&perks=3038247973,4104185692
+
+
+// D.F.A. ()
+//notes: 2
+dimwishlist:item=739029153&perks=247725512,47981717
+dimwishlist:item=739029153&perks=247725512,3425386926
+dimwishlist:item=739029153&perks=247725512,4104185692
+
+
+// Rose ()
+//notes: 1
+dimwishlist:item=882778888&perks=247725512,3038247973
+
+
+// Malediction ()
+//notes: 1
+dimwishlist:item=979721268&perks=3978468247,3038247973
+
+
+// Malediction ()
+//notes: 2
+dimwishlist:item=979721268&perks=3978468247,438098033
+
+
+// Malediction ()
+//notes: 3
+dimwishlist:item=979721268&perks=3828510309,3038247973
+
+
+// Malediction ()
+//notes: 4
+dimwishlist:item=979721268&perks=3700496672,3038247973
+
+
+// Rose ()
+//notes: 1
+dimwishlist:item=1041028434&perks=247725512,3038247973
+
+
+// Rose ()
+//notes: 2
+dimwishlist:item=1041028434&perks=2579169598,555281244
+
+
+// Rose ()
+//notes: 3
+dimwishlist:item=1041028434&perks=3824105627,3038247973
+
+
+// Mos Athanor IV (pve)
+//notes: 1 tags:pve
+dimwishlist:item=1288422452&perks=2048641572,1464081238
+
+
+// Mos Athanor IV (pve)
+//notes: 2 tags:pve
+dimwishlist:item=1288422452&perks=2579169598,555281244
+
+
+// Mos Athanor IV (pve)
+//notes: 3 tags:pve
+dimwishlist:item=1288422452&perks=2048641572,31345821
+
+
+// Mos Athanor IV (pve)
+//notes: 4 tags:pve
+dimwishlist:item=1288422452&perks=2048641572,555281244
+
+
+// Triple Laureate ()
+//notes: 1
+dimwishlist:item=1605599021&perks=1631667848,2679249093
+dimwishlist:item=1605599021&perks=1631667848,2360754333
+dimwishlist:item=1605599021&perks=1631667848,691659142
+
+
+// Triple Laureate ()
+//notes: 2
+dimwishlist:item=1605599021&perks=2922950962,691659142
+dimwishlist:item=1605599021&perks=2922950962,3640170453
+dimwishlist:item=1605599021&perks=2922950962,2679249093
+dimwishlist:item=1605599021&perks=2922950962,1015611457
+dimwishlist:item=1605599021&perks=2922950962,2360754333
+
+
+// Triple Laureate ()
+//notes: 3
+dimwishlist:item=1605599021&perks=1820235745,691659142
+dimwishlist:item=1605599021&perks=1820235745,3640170453
+dimwishlist:item=1605599021&perks=1820235745,2679249093
+dimwishlist:item=1605599021&perks=1820235745,1015611457
+dimwishlist:item=1605599021&perks=1820235745,2360754333
+
+
+// Crimil's Dagger ()
+//notes: 1
+dimwishlist:item=1617917863&perks=3824105627,3038247973
+dimwishlist:item=1617917863&perks=3824105627,555281244
+dimwishlist:item=1617917863&perks=588594999,3038247973
+dimwishlist:item=1617917863&perks=588594999,555281244
+
+
+// Vulpecula ()
+//notes: 1
+dimwishlist:item=1622998472&perks=3700496672,3038247973
+dimwishlist:item=1622998472&perks=3700496672,124408337
+
+
+// Vulpecula ()
+//notes: 2
+dimwishlist:item=1622998472&perks=1168162263,3038247973
+dimwishlist:item=1622998472&perks=1168162263,124408337
+
+
+// Something New ()
+//notes: 1
+dimwishlist:item=1705150753&perks=3523296417,124408337
+dimwishlist:item=1705150753&perks=1955165503,124408337
+
+
+// Something New ()
+//notes: 2
+dimwishlist:item=1705150753&perks=247725512,555281244
+dimwishlist:item=1705150753&perks=247725512,124408337
+
+
+// Judgment ()
+//notes: 1
+dimwishlist:item=1773934241&perks=3523296417,11612903
+
+
+// Judgment ()
+//notes: 2
+dimwishlist:item=1773934241&perks=124408337,1954620775
+
+
+// Judgment ()
+//notes: 3
+dimwishlist:item=1773934241&perks=3523296417,1954620775
+
+
+// Judgment ()
+//notes: 4
+dimwishlist:item=1773934241&perks=124408337,1955165503
+
+
+// Modified B-7 Pistol (pve)
+//notes: 1 tags:pve
+dimwishlist:item=1872906663&perks=3824105627,124408337
+
+
+// Modified B-7 Pistol (pve)
+//notes: 2 tags:pve
+dimwishlist:item=1872906663&perks=3932949589,124408337
+
+
+// Modified B-7 Pistol (pve)
+//notes: 3 tags:pve
+dimwishlist:item=1872906663&perks=3824105627,2922950962
+
+
+// Modified B-7 Pistol (pve)
+//notes: 4 tags:pve
+dimwishlist:item=1872906663&perks=1955165503,124408337
+
+
+// Modified B-7 Pistol (pve)
+//notes: 5 tags:pve
+dimwishlist:item=1872906663&perks=1955165503,2922950962
+
+
+// Midnight Coup ()
+//notes: 1
+dimwishlist:item=2033531689&perks=3038247973,3891536761
+
+
+// Midnight Coup ()
+//notes: 2
+dimwishlist:item=2033531689&perks=3824105627,3891536761
+
+
+// Midnight Coup ()
+//notes: 3
+dimwishlist:item=2033531689&perks=3824105627,3425386926
+
+
+// Midnight Coup ()
+//notes: 4
+dimwishlist:item=2033531689&perks=243981275,3891536761
+
+
+// Survivor's Epitaph ()
+//notes: 1
+dimwishlist:item=2152350211&perks=247725512,1015611457
+dimwishlist:item=2152350211&perks=247725512,2458213969
+dimwishlist:item=2152350211&perks=247725512,555281244
+
+
+// Survivor's Epitaph ()
+//notes: 2
+dimwishlist:item=2152350211&perks=2779035018,1015611457
+dimwishlist:item=2152350211&perks=2779035018,2458213969
+
+
+// Judgment ()
+dimwishlist:item=2226572694&perks=3523296417,11612903
+
+
+// Judgment ()
+//notes: 2
+dimwishlist:item=2226572694&perks=124408337,1954620775
+
+
+// Judgment ()
+//notes: 3
+dimwishlist:item=2226572694&perks=3523296417,1954620775
+
+
+// Judgment ()
+//notes: 4
+dimwishlist:item=2226572694&perks=124408337,1955165503
+
+
+// Midnight Coup ()
+//notes: 1
+dimwishlist:item=2499720827&perks=3038247973,3891536761
+
+
+// Midnight Coup ()
+//notes: 2
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+
+
+// Midnight Coup ()
+//notes: 3
+dimwishlist:item=2499720827&perks=3038247973,3425386926
+
+
+// Midnight Coup ()
+//notes: 4
+dimwishlist:item=2499720827&perks=243981275,3891536761
+
+
+// Dire Promise ()
+//notes: 1
+dimwishlist:item=2742838701&perks=3643424744,4082225868
+
+
+// Dire Promise ()
+//notes: 2
+dimwishlist:item=2742838701&perks=3400784728,4082225868
+
+
+// Dire Promise ()
+//notes: 3
+dimwishlist:item=2742838701&perks=3300816228,4082225868
+
+
+// Midnight Coup ()
+//notes: 1
+dimwishlist:item=2763843898&perks=3038247973,3891536761
+
+
+// Midnight Coup ()
+//notes: 2
+dimwishlist:item=2763843898&perks=3824105627,3891536761
+
+
+// Midnight Coup ()
+//notes: 3
+dimwishlist:item=2763843898&perks=3038247973,3425386926
+
+
+// Midnight Coup ()
+//notes: 4
+dimwishlist:item=2763843898&perks=243981275,3891536761
+
+
+// Something New ()
+//notes: 1
+dimwishlist:item=2877020298&perks=3523296417,124408337
+dimwishlist:item=2877020298&perks=1955165503,124408337
+
+
+// Something New ()
+//notes: 2
+dimwishlist:item=2877020298&perks=247725512,555281244
+dimwishlist:item=2877020298&perks=247725512,124408337
+
+
+// Triple Laureate ()
+//notes: 1
+dimwishlist:item=2908653246&perks=1631667848,2679249093
+dimwishlist:item=2908653246&perks=1631667848,2360754333
+
+
+// Triple Laureate ()
+//notes: 2
+dimwishlist:item=2908653246&perks=2922950962,691659142
+dimwishlist:item=2908653246&perks=2922950962,3640170453
+dimwishlist:item=2908653246&perks=2922950962,2679249093
+dimwishlist:item=2908653246&perks=2922950962,1015611457
+dimwishlist:item=2908653246&perks=2922950962,2360754333
+
+
+// Triple Laureate ()
+//notes: 3
+dimwishlist:item=2908653246&perks=1820235745,691659142
+dimwishlist:item=2908653246&perks=1820235745,3640170453
+dimwishlist:item=2908653246&perks=1820235745,2679249093
+dimwishlist:item=2908653246&perks=1820235745,1015611457
+dimwishlist:item=2908653246&perks=1820235745,2360754333
+
+
+// D.F.A. ()
+//notes: 1
+dimwishlist:item=2920548486&perks=3038247973,243981275
+dimwishlist:item=2920548486&perks=3038247973,47981717
+dimwishlist:item=2920548486&perks=3038247973,3425386926
+dimwishlist:item=2920548486&perks=3038247973,1015611457
+dimwishlist:item=2920548486&perks=3038247973,4104185692
+
+
+// D.F.A. ()
+//notes: 2
+dimwishlist:item=2920548486&perks=247725512,47981717
+dimwishlist:item=2920548486&perks=247725512,3425386926
+dimwishlist:item=2920548486&perks=247725512,4104185692
+
+
+// Modified B-7 Pistol (pve)
+//notes: 1 tags:pve
+dimwishlist:item=3146657388&perks=3824105627,124408337
+
+
+// Modified B-7 Pistol (pve)
+//notes: 2 tags:pve
+dimwishlist:item=3146657388&perks=3932949589,124408337
+
+
+// Modified B-7 Pistol (pve)
+//notes: 3 tags:pve
+dimwishlist:item=3146657388&perks=3824105627,2922950962
+
+
+// Modified B-7 Pistol (pve)
+//notes: 4 tags:pve
+dimwishlist:item=3146657388&perks=1955165503,124408337
+
+
+// Modified B-7 Pistol (pve)
+//notes: 5 tags:pve
+dimwishlist:item=3146657388&perks=1955165503,2922950962
+
+
+// Sixth Sense ()
+//notes: 1
+dimwishlist:item=3163473092&perks=3038247973,831391274
+dimwishlist:item=3163473092&perks=3038247973,960997401
+dimwishlist:item=3163473092&perks=3038247973,657025441
+dimwishlist:item=3163473092&perks=3038247973,2848615171
+
+
+// Sixth Sense ()
+//notes: 2
+dimwishlist:item=3163473092&perks=3523296417,960997401
+dimwishlist:item=3163473092&perks=3523296417,831391274
+
+
+// Sixth Sense ()
+//notes: 3
+dimwishlist:item=3163473092&perks=247725512,960997401
+dimwishlist:item=3163473092&perks=247725512,831391274
+
+
+// Vulpecula ()
+//notes: 1
+dimwishlist:item=3245446311&perks=124408337,2922950962
+dimwishlist:item=3245446311&perks=124408337,3038247973
+
+
+// Vulpecula ()
+//notes: 2
+dimwishlist:item=3245446311&perks=3700496672,3038247973
+dimwishlist:item=3245446311&perks=3700496672,2922950962
+
+
+// Vulpecula ()
+//notes: 3
+dimwishlist:item=3245446311&perks=1955165503,2922950962
+dimwishlist:item=3245446311&perks=1955165503,3038247973
+
+
+// Judgment (Adept) ()
+//notes: 1
+dimwishlist:item=3329218848&perks=3523296417,11612903
+
+
+// Judgment (Adept) ()
+//notes: 2
+dimwishlist:item=3329218848&perks=124408337,1954620775
+
+
+// Judgment (Adept) ()
+//notes: 3
+dimwishlist:item=3329218848&perks=3523296417,1954620775
+
+
+// Judgment (Adept) ()
+//notes: 4
+dimwishlist:item=3329218848&perks=124408337,1955165503
+
+
+// Malediction ()
+//notes: 1
+dimwishlist:item=3337727085&perks=3828510309,3038247973
+
+
+// Malediction ()
+//notes: 2
+dimwishlist:item=3337727085&perks=3978468247,438098033
+
+
+// Seventh Seraph Officer Revolver ()
+//notes: 1
+dimwishlist:item=3490736392&perks=1523832109,3038247973
+dimwishlist:item=3490736392&perks=1523832109,3201496230
+dimwishlist:item=3490736392&perks=1523832109,555281244
+
+
+// Seventh Seraph Officer Revolver ()
+//notes: 2
+dimwishlist:item=3490736392&perks=1354429876,3038247973
+dimwishlist:item=3490736392&perks=2010801679,3038247973
+dimwishlist:item=3490736392&perks=2289534249,3038247973
+
+
+// Phoneutria Fera (pve)
+//notes: 1 tags:pve
+dimwishlist:item=3496887154&perks=1126264488,2679249093
+
+
+// Phoneutria Fera (pve)
+//notes: 2 tags:pve
+dimwishlist:item=3496887154&perks=4071163871,2679249093
+
+
+// Phoneutria Fera (pve)
+//notes: 3 tags:pve
+dimwishlist:item=3496887154&perks=4190679284,2679249093
+
+
+// Phoneutria Fera (pve)
+//notes: 4 tags:pve
+dimwishlist:item=3496887154&perks=1126264488,4293542123
+
+
+// Service Revolver ()
+//notes: 1
+dimwishlist:item=3796682229&perks=247725512,2305480722
+dimwishlist:item=3796682229&perks=247725512,3425386926
+dimwishlist:item=3796682229&perks=247725512,3891536761
+
+
+// Service Revolver ()
+//notes: 2
+dimwishlist:item=3796682229&perks=3700496672,3038247973
+dimwishlist:item=3796682229&perks=3700496672,3891536761
+
+
+// Service Revolver ()
+//notes: 3
+dimwishlist:item=3796682229&perks=1517798362,3891536761
+
+
+// Phoneutria Fera (pve)
+//notes: 1 tags:pve
+dimwishlist:item=3804242792&perks=1126264488,2679249093
+
+
+// Phoneutria Fera (pve)
+//notes: 2 tags:pve
+dimwishlist:item=3804242792&perks=4071163871,2679249093
+
+
+// Phoneutria Fera (pve)
+//notes: 3 tags:pve
+dimwishlist:item=3804242792&perks=4190679284,2679249093
+
+
+// Phoneutria Fera (pve)
+//notes: 4 tags:pve
+dimwishlist:item=3804242792&perks=1126264488,4293542123
+
+
+// Phoneutria Fera (pve)
+//notes: 1 tags:pve
+dimwishlist:item=3804242793&perks=1126264488,2679249093
+
+
+// Phoneutria Fera (pve)
+//notes: 2 tags:pve
+dimwishlist:item=3804242793&perks=4071163871,2679249093
+
+
+// Phoneutria Fera (pve)
+//notes: 3 tags:pve
+dimwishlist:item=3804242793&perks=4190679284,2679249093
+
+
+// Phoneutria Fera (pve)
+//notes: 4 tags:pve
+dimwishlist:item=3804242793&perks=1126264488,4293542123
+
+
+// Phoneutria Fera ()
+//notes: 1
+dimwishlist:item=3804242794&perks=1126264488,2679249093
+
+
+// Phoneutria Fera ()
+//notes: 2
+dimwishlist:item=3804242794&perks=4071163871,2679249093
+
+
+// Phoneutria Fera ()
+//notes: 3
+dimwishlist:item=3804242794&perks=4190679284,2679249093
+
+
+// Phoneutria Fera ()
+//notes: 4
+dimwishlist:item=3804242794&perks=1126264488,4293542123
+
+
+// Sixth Sense ()
+//notes: 1
+dimwishlist:item=4032097588&perks=3038247973,831391274
+dimwishlist:item=4032097588&perks=3038247973,960997401
+dimwishlist:item=4032097588&perks=3038247973,657025441
+dimwishlist:item=4032097588&perks=3038247973,2848615171
+
+
+// Sixth Sense ()
+//notes: 2
+dimwishlist:item=4032097588&perks=3523296417,960997401
+dimwishlist:item=4032097588&perks=3523296417,831391274
+
+
+// Sixth Sense ()
+//notes: 3
+dimwishlist:item=4032097588&perks=247725512,960997401
+dimwishlist:item=4032097588&perks=247725512,831391274
+
+
+// Sixth Sense ()
+//notes: 1
+dimwishlist:item=4032097589&perks=3038247973,831391274
+dimwishlist:item=4032097589&perks=3038247973,960997401
+dimwishlist:item=4032097589&perks=3038247973,657025441
+dimwishlist:item=4032097589&perks=3038247973,2848615171
+
+
+// Sixth Sense ()
+//notes: 2
+dimwishlist:item=4032097589&perks=3523296417,960997401
+dimwishlist:item=4032097589&perks=3523296417,831391274
+
+
+// Sixth Sense ()
+//notes: 3
+dimwishlist:item=4032097589&perks=247725512,960997401
+dimwishlist:item=4032097589&perks=247725512,831391274
+
+
+// Sixth Sense ()
+//notes: 1
+dimwishlist:item=4032097590&perks=3038247973,831391274
+dimwishlist:item=4032097590&perks=3038247973,960997401
+dimwishlist:item=4032097590&perks=3038247973,657025441
+dimwishlist:item=4032097590&perks=3038247973,2848615171
+
+
+// Sixth Sense ()
+//notes: 2
+dimwishlist:item=4032097590&perks=3523296417,960997401
+dimwishlist:item=4032097590&perks=3523296417,831391274
+
+
+// Sixth Sense ()
+//notes: 3
+dimwishlist:item=4032097590&perks=247725512,960997401
+dimwishlist:item=4032097590&perks=247725512,831391274
+
+
+// Sixth Sense ()
+//notes: 1
+dimwishlist:item=4032097591&perks=3038247973,831391274
+dimwishlist:item=4032097591&perks=3038247973,960997401
+dimwishlist:item=4032097591&perks=3038247973,657025441
+dimwishlist:item=4032097591&perks=3038247973,2848615171
+
+
+// Sixth Sense ()
+//notes: 2
+dimwishlist:item=4032097591&perks=3523296417,960997401
+dimwishlist:item=4032097591&perks=3523296417,831391274
+
+
+// Sixth Sense ()
+//notes: 3
+dimwishlist:item=4032097591&perks=247725512,960997401
+dimwishlist:item=4032097591&perks=247725512,831391274
+
+
+// Survivor's Epitaph ()
+//notes: 1
+dimwishlist:item=4059111040&perks=247725512,1015611457
+dimwishlist:item=4059111040&perks=247725512,2458213969
+dimwishlist:item=4059111040&perks=247725512,555281244
+
+
+// Survivor's Epitaph ()
+//notes: 2
+dimwishlist:item=4059111040&perks=2779035018,1015611457
+dimwishlist:item=4059111040&perks=2779035018,2458213969
+
+
+// Better Devils ()
+//notes: 1
+dimwishlist:item=4059111041&perks=1523832109,3038247973
+dimwishlist:item=4059111041&perks=1523832109,47981717
+dimwishlist:item=4059111041&perks=1523832109,555281244
+
+
+// Better Devils ()
+//notes: 2
+dimwishlist:item=4059111041&perks=247725512,555281244
+dimwishlist:item=4059111041&perks=247725512,3038247973
+dimwishlist:item=4059111041&perks=247725512,47981717
+
+
+// Better Devils ()
+//notes: 3
+dimwishlist:item=4059111041&perks=923806249,831391274
+
+
+// Mos Athanor IV (pve)
+//notes: 1 tags:pve
+dimwishlist:item=4118334987&perks=2048641572,1464081238
+
+
+// Mos Athanor IV (pve)
+//notes: 2 tags:pve
+dimwishlist:item=4118334987&perks=2579169598,555281244
+
+
+// Mos Athanor IV (pve)
+//notes: 3 tags:pve
+dimwishlist:item=4118334987&perks=2048641572,31345821
+
+
+// Mos Athanor IV (pve)
+//notes: 4 tags:pve
+dimwishlist:item=4118334987&perks=2048641572,555281244
+
+
