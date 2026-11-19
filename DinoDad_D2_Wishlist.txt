@@ -718,3 +718,212 @@ dimwishlist:item=4118334987&perks=2048641572,31345821
 dimwishlist:item=4118334987&perks=2048641572,555281244
 
 
+title:DinoDad_D2_Wishlist_AR_KineticSlot
+description:Wishlist of my auto rifle kinetic slot rolls. For columns 3 and 4 only 
+
+// Duty Bound ()
+//notes: 1
+dimwishlist:item=89693562&perks=3828510309,1226351311
+dimwishlist:item=89693562&perks=3828510309,3400784728
+dimwishlist:item=89693562&perks=3828510309,3425386926
+
+
+// Duty Bound ()
+//notes: 2
+dimwishlist:item=89693562&perks=1354429876,3400784728
+dimwishlist:item=89693562&perks=1354429876,95528736
+
+
+// Duty Bound ()
+//notes: 3
+dimwishlist:item=89693562&perks=2387244414,1226351311
+dimwishlist:item=89693562&perks=2387244414,3425386926
+
+
+// Duty Bound ()
+//notes: 4
+dimwishlist:item=89693562&perks=2289534249,3425386926
+
+
+// Duty Bound ()
+//notes: 1
+dimwishlist:item=260532765&perks=3828510309,1226351311
+dimwishlist:item=260532765&perks=3828510309,3400784728
+dimwishlist:item=260532765&perks=3828510309,3425386926
+
+
+// Duty Bound ()
+//notes: 2
+dimwishlist:item=260532765&perks=1354429876,3400784728
+dimwishlist:item=260532765&perks=1354429876,95528736
+
+
+// Duty Bound ()
+//notes: 3
+dimwishlist:item=260532765&perks=2387244414,1226351311
+dimwishlist:item=260532765&perks=2387244414,3425386926
+
+
+// Duty Bound ()
+//notes: 4
+dimwishlist:item=260532765&perks=2289534249,3425386926
+
+
+// Steelfeather Repeater ()
+//notes: 1
+dimwishlist:item=771811870&perks=1631667848,3708227201
+dimwishlist:item=771811870&perks=1631667848,1202584452
+dimwishlist:item=771811870&perks=1631667848,4082225868
+
+
+// Steelfeather Repeater ()
+//notes: 2
+dimwishlist:item=771811870&perks=1820235745,3708227201
+dimwishlist:item=771811870&perks=1820235745,1202584452
+dimwishlist:item=771811870&perks=1820235745,4082225868
+
+
+// Steelfeather Repeater ()
+//notes: 3
+dimwishlist:item=771811870&perks=2289534249,1202584452
+dimwishlist:item=771811870&perks=2289534249,3708227201
+
+
+// Chroma Rush ()
+//notes: 1
+dimwishlist:item=771811871&perks=1820235745,3891536761
+dimwishlist:item=771811871&perks=1517798362,3891536761
+dimwishlist:item=771811871&perks=2289534249,3891536761
+dimwishlist:item=771811871&perks=1359896290,3891536761
+
+
+// Chroma Rush ()
+//notes: 2
+dimwishlist:item=771811871&perks=1820235745,3425386926
+dimwishlist:item=771811871&perks=1359896290,3425386926
+
+
+// Chroma Rush ()
+//notes: 3
+dimwishlist:item=771811871&perks=1820235745,365154968
+dimwishlist:item=771811871&perks=1359896290,365154968
+
+
+// DECATUR 02 ()
+//notes: 1
+dimwishlist:item=1850748385&perks=2980589453,692399809
+dimwishlist:item=1850748385&perks=2980589453,2298656195
+dimwishlist:item=1850748385&perks=2980589453,3201496230
+
+
+// DECATUR 02 ()
+//notes: 2
+dimwishlist:item=1850748385&perks=2922950962,1955165503
+dimwishlist:item=1850748385&perks=2922950962,657025441
+
+
+// DECATUR 02 ()
+//notes: 3
+dimwishlist:item=1850748385&perks=3523296417,3201496230
+dimwishlist:item=1850748385&perks=3523296417,2298656195
+
+
+// DECATUR 02 ()
+//notes: 4
+dimwishlist:item=1850748385&perks=243981275,3201496230
+
+
+// The Forward Path ()
+//notes: 1
+dimwishlist:item=1884897338&perks=923806249,831391274
+dimwishlist:item=1884897338&perks=923806249,960997401
+dimwishlist:item=1884897338&perks=3523296417,831391274
+dimwishlist:item=1884897338&perks=3523296417,960997401
+
+
+// Lethal Abundance ()
+//notes: 1
+dimwishlist:item=1884897339&perks=1359896290,365154968
+dimwishlist:item=1884897339&perks=1359896290,95528736
+
+
+// Lethal Abundance ()
+//notes: 2
+dimwishlist:item=1884897339&perks=923806249,831391274
+dimwishlist:item=1884897339&perks=923806249,365154968
+dimwishlist:item=1884897339&perks=923806249,95528736
+
+
+// Lethal Abundance ()
+//notes: 3
+dimwishlist:item=1884897339&perks=960997401,831391274
+
+
+// Lethal Abundance ()
+//notes: 4
+dimwishlist:item=1884897339&perks=2387244414,365154968
+
+
+// Pluperfect ()
+//notes: 1
+dimwishlist:item=2203881482&perks=3418782618,3891536761
+dimwishlist:item=2203881482&perks=1517798362,3891536761
+dimwishlist:item=2203881482&perks=3523296417,3891536761
+dimwishlist:item=2203881482&perks=1359896290,3891536761
+
+
+// Pluperfect ()
+//notes: 2
+dimwishlist:item=2203881482&perks=3418782618,3425386926
+
+
+// Seventh Seraph Carbine ()
+//notes: 1
+dimwishlist:item=2560370239&perks=243981275,3891536761
+dimwishlist:item=2560370239&perks=1523832109,3891536761
+dimwishlist:item=2560370239&perks=1517798362,3891536761
+dimwishlist:item=2560370239&perks=1354429876,3891536761
+
+
+// Seventh Seraph Carbine ()
+//notes: 2
+dimwishlist:item=2560370239&perks=1523832109,365154968
+dimwishlist:item=2560370239&perks=1517798362,365154968
+dimwishlist:item=2560370239&perks=1354429876,365154968
+
+
+// Seventh Seraph Carbine ()
+//notes: 3
+dimwishlist:item=2560370239&perks=1523832109,95528736
+
+
+// Scathelocke ()
+//notes: 1
+dimwishlist:item=3332538050&perks=243981275,3891536761
+dimwishlist:item=3332538050&perks=3418782618,3891536761
+dimwishlist:item=3332538050&perks=3700496672,3891536761
+dimwishlist:item=3332538050&perks=1820235745,3891536761
+dimwishlist:item=3332538050&perks=3643424744,3891536761
+
+
+// Scathelocke ()
+//notes: 2
+dimwishlist:item=3332538050&perks=1820235745,3425386926
+dimwishlist:item=3332538050&perks=1570042021,3425386926
+
+
+// Fair Judgment ()
+//notes: 1
+dimwishlist:item=4113452819&perks=1955165503,124408337
+dimwishlist:item=4113452819&perks=1359896290,124408337
+dimwishlist:item=4113452819&perks=3828510309,124408337
+dimwishlist:item=4113452819&perks=3993379141,124408337
+
+
+// Fair Judgment ()
+//notes: 2
+dimwishlist:item=4113452819&perks=1359896290,95528736
+dimwishlist:item=4113452819&perks=1955165503,95528736
+dimwishlist:item=4113452819&perks=3828510309,95528736
+
+
