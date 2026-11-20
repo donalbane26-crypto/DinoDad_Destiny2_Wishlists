@@ -927,3 +927,317 @@ dimwishlist:item=4113452819&perks=1955165503,95528736
 dimwishlist:item=4113452819&perks=3828510309,95528736
 
 
+title:DinoDad_D2_Wishlist_Bow
+description:Wishlist of Combat Bows from last two seasons. Column 3 and 4 only
+
+// Pre Astyanax IV ()
+//notes: 1
+dimwishlist:item=471764396&perks=3824105627,2890807135
+dimwishlist:item=471764396&perks=3824105627,3365897133
+dimwishlist:item=471764396&perks=4293542123,2890807135
+dimwishlist:item=471764396&perks=4293542123,3365897133
+dimwishlist:item=471764396&perks=2652708987,2890807135
+dimwishlist:item=471764396&perks=2652708987,3365897133
+
+
+// Fortunate Star ()
+//notes: 1
+dimwishlist:item=591672323&perks=776531651,2048641572
+dimwishlist:item=591672323&perks=776531651,1464081238
+dimwishlist:item=591672323&perks=2848615171,2048641572
+dimwishlist:item=591672323&perks=2848615171,1464081238
+
+
+// Fortunate Star ()
+//notes: 2
+dimwishlist:item=591672323&perks=201365942,2048641572
+dimwishlist:item=591672323&perks=201365942,1464081238
+dimwishlist:item=591672323&perks=2652708987,2048641572
+dimwishlist:item=591672323&perks=2652708987,1464081238
+
+
+// A Good Shout ()
+//notes: 1
+dimwishlist:item=649691506&perks=776531651,2048641572
+dimwishlist:item=649691506&perks=1134488199,2048641572
+dimwishlist:item=649691506&perks=3987942396,2048641572
+dimwishlist:item=649691506&perks=4042220767,2048641572
+
+
+// A Good Shout ()
+//notes: 2
+dimwishlist:item=649691506&perks=776531651,2319119708
+dimwishlist:item=649691506&perks=1134488199,2319119708
+dimwishlist:item=649691506&perks=3987942396,2319119708
+dimwishlist:item=649691506&perks=4042220767,2319119708
+
+
+// King Orfeo ()
+//notes: 1
+dimwishlist:item=784540300&perks=3365897133,3966416502
+dimwishlist:item=784540300&perks=3365897133,2848615171
+dimwishlist:item=784540300&perks=3365897133,657025441
+
+
+// King Orfeo ()
+//notes: 2
+dimwishlist:item=784540300&perks=201365942,3966416502
+dimwishlist:item=784540300&perks=201365942,2848615171
+dimwishlist:item=784540300&perks=201365942,657025441
+
+
+// King Orfeo ()
+//notes: 3
+dimwishlist:item=784540300&perks=3700496672,2848615171
+
+
+// King Orfeo ()
+//notes: 1
+dimwishlist:item=784540301&perks=3365897133,3966416502
+dimwishlist:item=784540301&perks=3365897133,2848615171
+dimwishlist:item=784540301&perks=3365897133,657025441
+
+
+// King Orfeo ()
+//notes: 2
+dimwishlist:item=784540301&perks=201365942,3966416502
+dimwishlist:item=784540301&perks=201365942,2848615171
+dimwishlist:item=784540301&perks=201365942,657025441
+
+
+// King Orfeo ()
+//notes: 3
+dimwishlist:item=784540301&perks=3700496672,2848615171
+
+
+// King Orfeo ()
+//notes: 1
+dimwishlist:item=784540302&perks=3365897133,3966416502
+dimwishlist:item=784540302&perks=3365897133,2848615171
+dimwishlist:item=784540302&perks=3365897133,657025441
+
+
+// King Orfeo ()
+//notes: 2
+dimwishlist:item=784540302&perks=201365942,3966416502
+dimwishlist:item=784540302&perks=201365942,2848615171
+dimwishlist:item=784540302&perks=201365942,657025441
+
+
+// King Orfeo ()
+//notes: 3
+dimwishlist:item=784540302&perks=3700496672,2848615171
+
+
+// King Orfeo ()
+//notes: 1
+dimwishlist:item=784540303&perks=3365897133,3966416502
+dimwishlist:item=784540303&perks=3365897133,2848615171
+dimwishlist:item=784540303&perks=3365897133,657025441
+
+
+// King Orfeo ()
+//notes: 2
+dimwishlist:item=784540303&perks=201365942,3966416502
+dimwishlist:item=784540303&perks=201365942,2848615171
+dimwishlist:item=784540303&perks=201365942,657025441
+
+
+// King Orfeo ()
+//notes: 3
+dimwishlist:item=784540303&perks=3700496672,2848615171
+
+
+// The Spiteful Fang ()
+//notes: 1
+dimwishlist:item=1094998581&perks=124408337,3824105627
+dimwishlist:item=1094998581&perks=124408337,2922950962
+
+
+// The Spiteful Fang ()
+//notes: 2
+dimwishlist:item=1094998581&perks=1955165503,3365897133
+dimwishlist:item=1094998581&perks=1955165503,3425386926
+dimwishlist:item=1094998581&perks=1955165503,3414324643
+
+
+// The Spiteful Fang ()
+//notes: 3
+dimwishlist:item=1094998581&perks=201365942,3365897133
+dimwishlist:item=1094998581&perks=201365942,3414324643
+dimwishlist:item=1094998581&perks=201365942,3425386926
+
+
+// Hushed Whisper ()
+//notes: 1
+dimwishlist:item=1175295126&perks=960997401,831391274
+dimwishlist:item=1175295126&perks=960997401,3365897133
+dimwishlist:item=1175295126&perks=923806249,831391274
+dimwishlist:item=1175295126&perks=923806249,3365897133
+
+
+// Hushed Whisper ()
+//notes: 2
+dimwishlist:item=1175295126&perks=951095735,831391274
+dimwishlist:item=1175295126&perks=951095735,3365897133
+dimwishlist:item=1175295126&perks=951095735,555281244
+
+
+// The Spiteful Fang ()
+//notes: 1
+dimwishlist:item=1704597062&perks=124408337,3824105627
+dimwishlist:item=1704597062&perks=124408337,2922950962
+
+
+// The Spiteful Fang ()
+//notes: 2
+dimwishlist:item=1704597062&perks=1955165503,3365897133
+dimwishlist:item=1704597062&perks=1955165503,3425386926
+dimwishlist:item=1704597062&perks=1955165503,3414324643
+
+
+// The Spiteful Fang ()
+//notes: 3
+dimwishlist:item=1704597062&perks=201365942,3365897133
+dimwishlist:item=1704597062&perks=201365942,3414324643
+dimwishlist:item=1704597062&perks=201365942,3425386926
+
+
+// Submersion ()
+//notes: 1
+dimwishlist:item=1724104236&perks=3300816228,2978966579
+dimwishlist:item=1724104236&perks=3300816228,3324494224
+dimwishlist:item=1724104236&perks=951095735,2978966579
+dimwishlist:item=1724104236&perks=951095735,3324494224
+dimwishlist:item=1724104236&perks=4042220767,2978966579
+dimwishlist:item=1724104236&perks=4042220767,3324494224
+dimwishlist:item=1724104236&perks=2621346526,2978966579
+dimwishlist:item=1724104236&perks=2621346526,3324494224
+
+
+// Convened Recurve ()
+//notes: 1
+dimwishlist:item=2271714488&perks=2652708987,2048641572
+dimwishlist:item=2271714488&perks=776531651,2048641572
+dimwishlist:item=2271714488&perks=3182497402,2048641572
+dimwishlist:item=2271714488&perks=1134488199,2048641572
+
+
+// Convened Recurve ()
+//notes: 2
+dimwishlist:item=2271714488&perks=2652708987,198336270
+dimwishlist:item=2271714488&perks=3182497402,198336270
+dimwishlist:item=2271714488&perks=776531651,198336270
+
+
+// Convened Recurve ()
+//notes: 3
+dimwishlist:item=2271714488&perks=2652708987,1464081238
+
+
+// Fortunate Star ()
+//notes: 1
+dimwishlist:item=2631466936&perks=776531651,2048641572
+dimwishlist:item=2631466936&perks=776531651,1464081238
+dimwishlist:item=2631466936&perks=2848615171,2048641572
+dimwishlist:item=2631466936&perks=2848615171,1464081238
+
+
+// Fortunate Star ()
+//notes: 2
+dimwishlist:item=2631466936&perks=201365942,2048641572
+dimwishlist:item=2631466936&perks=201365942,1464081238
+dimwishlist:item=2631466936&perks=2652708987,2048641572
+dimwishlist:item=2631466936&perks=2652708987,1464081238
+
+
+// Mercury-A ()
+//notes: 1
+dimwishlist:item=2838279629&perks=243981275,3891536761
+dimwishlist:item=2838279629&perks=2652708987,3891536761
+dimwishlist:item=2838279629&perks=247725512,3891536761
+dimwishlist:item=2838279629&perks=3523296417,3891536761
+
+
+// King Orfeo ()
+//notes: 1
+dimwishlist:item=3481382332&perks=3365897133,3966416502
+dimwishlist:item=3481382332&perks=3365897133,2848615171
+dimwishlist:item=3481382332&perks=3365897133,657025441
+
+
+// King Orfeo ()
+dimwishlist:item=3481382332&perks=201365942,3966416502
+dimwishlist:item=3481382332&perks=201365942,2848615171
+dimwishlist:item=3481382332&perks=201365942,657025441
+
+
+// King Orfeo ()
+//notes: 3
+dimwishlist:item=3481382332&perks=3700496672,2848615171
+
+
+// Submersion ()
+//notes: 1
+dimwishlist:item=3524386983&perks=3300816228,2978966579
+dimwishlist:item=3524386983&perks=3300816228,3324494224
+dimwishlist:item=3524386983&perks=951095735,2978966579
+dimwishlist:item=3524386983&perks=951095735,3324494224
+dimwishlist:item=3524386983&perks=4042220767,2978966579
+dimwishlist:item=3524386983&perks=4042220767,3324494224
+dimwishlist:item=3524386983&perks=2621346526,2978966579
+dimwishlist:item=3524386983&perks=2621346526,3324494224
+
+
+// Hushed Whisper ()
+//notes: 1
+dimwishlist:item=3574168117&perks=960997401,831391274
+dimwishlist:item=3574168117&perks=960997401,3365897133
+dimwishlist:item=3574168117&perks=923806249,831391274
+dimwishlist:item=3574168117&perks=923806249,3365897133
+
+
+// Hushed Whisper ()
+//notes: 2
+dimwishlist:item=3574168117&perks=951095735,831391274
+dimwishlist:item=3574168117&perks=951095735,3365897133
+dimwishlist:item=3574168117&perks=951095735,555281244
+
+
+// A Good Shout ()
+//notes: 1
+dimwishlist:item=3615748501&perks=776531651,2048641572
+dimwishlist:item=3615748501&perks=1134488199,2048641572
+dimwishlist:item=3615748501&perks=3987942396,2048641572
+dimwishlist:item=3615748501&perks=4042220767,2048641572
+
+
+// A Good Shout ()
+//notes: 2
+dimwishlist:item=3615748501&perks=776531651,2319119708
+dimwishlist:item=3615748501&perks=1134488199,2319119708
+dimwishlist:item=3615748501&perks=3987942396,2319119708
+dimwishlist:item=3615748501&perks=2866798147,2319119708
+dimwishlist:item=3615748501&perks=4042220767,2319119708
+
+
+// Convened Recurve ()
+//notes: 1
+dimwishlist:item=3667861447&perks=2652708987,2048641572
+dimwishlist:item=3667861447&perks=776531651,2048641572
+dimwishlist:item=3667861447&perks=3182497402,2048641572
+dimwishlist:item=3667861447&perks=1134488199,2048641572
+
+
+// Convened Recurve ()
+//notes: 2
+dimwishlist:item=3667861447&perks=2652708987,198336270
+dimwishlist:item=3667861447&perks=3182497402,198336270
+dimwishlist:item=3667861447&perks=776531651,198336270
+
+
+// Convened Recurve ()
+//notes: 3
+dimwishlist:item=3667861447&perks=2652708987,1464081238
+
+
